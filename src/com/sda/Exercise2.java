@@ -5,7 +5,7 @@ import java.util.Scanner;
 /*
 2. Wprowadź z poziomu konsoli dwie wartości, dodaj je do siebie i wypisz ich sumę.
  */
-public class Excercise3 {
+public class Exercise2 {
     public static void main(String[] args) {
 
         System.out.println("Insert first number:");

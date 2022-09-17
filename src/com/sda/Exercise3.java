@@ -7,7 +7,7 @@ Przetestuj liczbe dla każdego przypadku (liczba mniejsza, równa lub większa o
 
 import java.util.Scanner;
 
-public class Excercise4 {
+public class Exercise3 {
     public static void main(String[] args) {
 
         System.out.println("Insert number");

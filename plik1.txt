@@ -1,0 +1,3 @@
+Testowanie pisania w VI
+
+Teraz na terminalu powinno dzialac poprwanie
